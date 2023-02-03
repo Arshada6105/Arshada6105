@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning *Java Back-end development*
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://Arshada6105.github.io)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://arshada6105.github.io/)
 
 - 📫 How to reach me *arshada6105@gmail.com*
 

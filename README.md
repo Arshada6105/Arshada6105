@@ -60,7 +60,7 @@
 <Style>
 
 .centre{
-    margin-left:20px;
+    margin-left:200px;
 }
 
 </Style>

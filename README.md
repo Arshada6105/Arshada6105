@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://arshada6105.github.io/)
 
-- 📫 How to reach me *Arshada6105@gmail.com*
+- 📫 How to reach me `Arshada6105@gmail.com`
 
 - 📄 Have a look at my [Resume](https://drive.google.com/file/d/1DjQLqOVYTK_GJf1aAnbLDK_U2T63aqt_/view?usp=sharing)
 
